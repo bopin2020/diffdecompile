@@ -33,7 +33,8 @@ typedef enum<BYTE>
     IDAPro = 0x1,
     BinaryNinja = 0x02,
     Ghidra = 0x03,
-    Unknown = 0x04,
+    Angr = 0x04,
+    Unknown = 0x7f,
     Error = 0x80,
 } DecompileSourceType;
 
