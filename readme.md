@@ -1,13 +1,13 @@
 # diffdecompile
 
-在线托管元数据和 diffdecompile文件
-这些信息由  DiffClient 应用程序进行解析和使用
+Host some diffdecompile files
+These files are used by [DiffClient](https://github.com/bopin2020/DiffClient/) application
 
 
 
 ## 010Editor
 
-添加010Editor  template file for parsing *.diffdecompile  version 0.0.1.0
+In order to parse diffdecompile binary file format, 010Editor template file for parsing *.diffdecompile  which the current version is 0.0.1.0.
 
 
 
