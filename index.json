@@ -1,16 +1,982 @@
 {
-    "Count": 28,
-    "Date": "2025-02-14 13:22:55.662089",
+    "Count": 350,
+    "Date": "2025-02-15 13:20:17.328103",
     "Items": [
         {
             "Count": 1,
             "Items": [
                 {
-                    "Count": 1,
+                    "Count": 323,
                     "Date": "2025-02",
                     "Items": [
                         {
+                            "File": "AboutSettingsHandlers-10.0.22621.4541.dll_vs_AboutSettingsHandlers-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "acmigration-10.0.22621.4515.dll_vs_acmigration-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "acpi-10.0.22621.1409.sys_vs_acpi-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "AcSpecfc-10.0.22621.4746.dll_vs_AcSpecfc-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ActivationClient-10.0.22621.4034.dll_vs_ActivationClient-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ActivationManager-10.0.22621.4541.dll_vs_ActivationManager-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "advapi32-10.0.22621.1409.dll_vs_advapi32-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "aeinv-10.0.22621.4541.dll_vs_aeinv-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "aemarebackup-10.0.22621.4541.dll_vs_aemarebackup-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "aepic-10.0.22621.4541.dll_vs_aepic-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
                             "File": "afd-10.0.22621.1409.sys_vs_afd-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "agentactivationruntime-10.0.22621.4541.dll_vs_agentactivationruntime-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ahcache-10.0.22621.1409.sys_vs_ahcache-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "APMon-10.0.22621.4541.dll_vs_APMon-10.0.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "AppContracts-10.0.22621.4541.dll_vs_AppContracts-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "apphelp-10.0.22621.4455.dll_vs_apphelp-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "appid-10.0.22621.4455.sys_vs_appid-10.0.22621.4890.sys.diffdecompile"
+                        },
+                        {
+                            "File": "appinfo-10.0.22621.4746.dll_vs_appinfo-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ApplicationTargetedFeatureDatabase-10.0.22621.4515.dll_vs_ApplicationTargetedFeatureDatabase-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "appraiser-10.0.22621.4541.dll_vs_appraiser-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "AppResolver-10.0.22621.4746.dll_vs_AppResolver-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "archiveint-10.0.22621.4746.dll_vs_archiveint-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "AudioEng-10.0.22621.1409.dll_vs_AudioEng-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "authz-10.0.22621.1376.dll_vs_authz-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "bcastdvruserservice-10.0.22621.3733.dll_vs_bcastdvruserservice-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "bcrypt-10.0.22621.3209.dll_vs_bcrypt-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "bdesvc-10.0.22621.4601.dll_vs_bdesvc-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "BootMenuUX-10.0.22621.4601.dll_vs_BootMenuUX-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "bootsvc-10.0.22621.1409.dll_vs_bootsvc-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "CapabilityAccessManager-10.0.22621.4541.dll_vs_CapabilityAccessManager-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "CaptureService-10.0.22621.4034.dll_vs_CaptureService-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "CBDHSvc-10.0.22621.1418.dll_vs_CBDHSvc-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "cdp-10.0.22621.4541.dll_vs_cdp-10.0.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "cdprt-10.0.22621.4746.dll_vs_cdprt-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ci-10.0.22621.4541.dll_vs_ci-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "cldflt-10.0.22621.4746.sys_vs_cldflt-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "clfs-10.0.22621.4805.sys_vs_clfs-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ClipboardServer-10.0.22621.4034.dll_vs_ClipboardServer-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "cloudAP-10.0.22621.4746.dll_vs_cloudAP-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "CloudDesktopCSP-10.0.22621.4541.dll_vs_CloudDesktopCSP-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "CloudExperienceHostCommon-10.0.22621.1418.dll_vs_CloudExperienceHostCommon-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "CloudRestoreLauncher-10.0.22621.4541.dll_vs_CloudRestoreLauncher-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "cmimcext-10.0.22621.4034.sys_vs_cmimcext-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "cng-10.0.22621.1409.sys_vs_cng-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "combase-10.0.22621.4541.dll_vs_combase-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "comdlg32-10.0.22621.4541.dll_vs_comdlg32-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "CoreMessaging-10.0.22621.4541.dll_vs_CoreMessaging-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "CredProvDataModel-10.0.22621.4746.dll_vs_CredProvDataModel-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "credprovhost-10.0.22621.4541.dll_vs_credprovhost-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "credprovs-10.0.22621.4746.dll_vs_credprovs-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "cscobj-10.0.22621.1485.dll_vs_cscobj-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "d3d10warp-10.0.22621.4305.dll_vs_d3d10warp-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "DAFESCL-10.0.22621.4746.dll_vs_DAFESCL-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "DAFMCP-10.0.22621.4541.dll_vs_DAFMCP-10.0.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dafupnp-10.0.22621.1364.dll_vs_dafupnp-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "DAFWSD-10.0.22621.4746.dll_vs_DAFWSD-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "daxexec-10.0.22621.4541.dll_vs_daxexec-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dcntel-10.0.22621.4541.dll_vs_dcntel-10.0.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dcomp-10.0.22621.4541.dll_vs_dcomp-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dcsvc-10.0.22621.4541.dll_vs_dcsvc-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "DesktopShellExt-10.0.22621.4541.dll_vs_DesktopShellExt-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "DesktopSwitcherDataModel-10.0.22621.4746.dll_vs_DesktopSwitcherDataModel-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "DeviceFlows.DataModel-10.0.22621.4312.dll_vs_DeviceFlows.DataModel-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "DeviceMetadataRetrievalClient-10.0.22621.4746.dll_vs_DeviceMetadataRetrievalClient-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "devinv-10.0.22621.4746.dll_vs_devinv-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "DevPropMgr-10.0.22621.4746.dll_vs_DevPropMgr-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "diagtrack-10.0.22621.4541.dll_vs_diagtrack-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "directxdatabasehelper-10.0.22621.4541.dll_vs_directxdatabasehelper-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dlnashext-10.0.22621.4746.dll_vs_dlnashext-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dmcmnutils-10.0.22621.4455.dll_vs_dmcmnutils-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dmenrollengine-10.0.22621.4541.dll_vs_dmenrollengine-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "DMRServer-10.0.22621.4541.dll_vs_DMRServer-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dosettings-10.0.22621.4746.dll_vs_dosettings-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "drvsetup-10.0.22621.3209.dll_vs_drvsetup-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dwmcore-10.0.22621.4541.dll_vs_dwmcore-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dxgi-10.0.22621.4034.dll_vs_dxgi-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dxgkrnl-10.0.22621.4800.sys_vs_dxgkrnl-10.0.22621.4890.sys.diffdecompile"
+                        },
+                        {
+                            "File": "edgehtml-11.00.22621.4541.dll_vs_edgehtml-11.00.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "edputil-10.0.22621.4034.dll_vs_edputil-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "eeprov-10.0.22621.4746.dll_vs_eeprov-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "eeutil-10.0.22621.4746.dll_vs_eeutil-10.0.22621.1390.dll.diffdecompile"
+                        },
+                        {
+                            "File": "efscore-10.0.22621.4746.dll_vs_efscore-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "efswrt-10.0.22621.4746.dll_vs_efswrt-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "enterprisecsps-10.0.22621.4541.dll_vs_enterprisecsps-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "EsclProtocol-10.0.22621.4746.dll_vs_EsclProtocol-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "exfat-10.0.22621.1409.sys_vs_exfat-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ExplorerFrame-10.0.22621.4601.dll_vs_ExplorerFrame-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "fastfat-10.0.22621.1409.sys_vs_fastfat-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "fcon-10.0.22621.4746.dll_vs_fcon-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "fidocredprov-10.0.22621.4746.dll_vs_fidocredprov-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "FrameServer-10.0.22621.4455.dll_vs_FrameServer-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "fveapi-10.0.22621.1409.dll_vs_fveapi-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "fveapibase-10.0.22621.4746.dll_vs_fveapibase-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "fvevol-10.0.22621.1409.sys_vs_fvevol-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "fwmdmcsp-10.0.22621.4746.dll_vs_fwmdmcsp-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "gdi32full-10.0.22621.4455.dll_vs_gdi32full-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "GdiPlus-10.0.22621.4742.dll_vs_GdiPlus-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "generaltel-10.0.22621.4541.dll_vs_generaltel-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "GraphicsCapture-10.0.22621.4746.dll_vs_GraphicsCapture-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "hascsp-10.0.22621.4746.dll_vs_hascsp-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "hmkd-10.0.22621.4660.dll_vs_hmkd-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "HolographicExtensions-10.0.22621.4541.dll_vs_HolographicExtensions-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "HostNetSvc-10.0.22621.4746.dll_vs_HostNetSvc-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "http-10.0.22621.1409.sys_vs_http-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "iasrad-10.0.22621.4746.dll_vs_iasrad-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "iertutil-11.00.22621.4541.dll_vs_iertutil-11.00.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "InputHost-10.0.22621.4541.dll_vs_InputHost-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "InputInjectionBroker-10.0.22621.4746.dll_vs_InputInjectionBroker-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "InputService-10.0.22621.4541.dll_vs_InputService-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "InputSwitch-10.0.22621.4541.dll_vs_InputSwitch-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "InstallService-10.0.22621.4541.dll_vs_InstallService-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "InstallServiceTasks-10.0.22621.4541.dll_vs_InstallServiceTasks-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "invagent-10.0.22621.4541.dll_vs_invagent-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "InventorySvc-10.0.22621.4541.dll_vs_InventorySvc-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "iphlpsvc-10.0.22621.4034.dll_vs_iphlpsvc-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ipnathlp-10.0.22621.1409.dll_vs_ipnathlp-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "iscsiexe-10.0.22621.1409.dll_vs_iscsiexe-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ISM-10.0.22621.4541.dll_vs_ISM-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "jscript9-11.00.22621.4317.dll_vs_jscript9-11.00.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "jscript9Legacy-11.00.22621.4317.dll_vs_jscript9Legacy-11.00.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "KerbClientShared-10.0.22621.1409.dll_vs_KerbClientShared-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "kerberos-10.0.22621.4601.dll_vs_kerberos-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "kernel32-10.0.22621.4455.dll_vs_kernel32-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "KernelBase-10.0.22621.4541.dll_vs_KernelBase-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ksecpkg-10.0.22621.4660.sys_vs_ksecpkg-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ksthunk-10.0.22621.1409.sys_vs_ksthunk-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "LicenseManager-10.0.22621.4034.dll_vs_LicenseManager-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "LicensingWinRT-10.0.22621.4746.dll_vs_LicensingWinRT-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "LocationFramework-10.0.22621.4601.dll_vs_LocationFramework-10.0.22621.4746.dll.diffdecompile"
+                        },
+                        {
+                            "File": "LockAppBroker-10.0.22621.4305.dll_vs_LockAppBroker-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "LockController-10.0.22621.4455.dll_vs_LockController-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "LockScreenData-10.0.22621.1418.dll_vs_LockScreenData-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "LogonController-10.0.22621.4541.dll_vs_LogonController-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "lsm-10.0.22621.4541.dll_vs_lsm-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "McpManagementService-10.0.22621.3958.dll_vs_McpManagementService-10.0.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "MdmDiagnostics-10.0.22621.4541.dll_vs_MdmDiagnostics-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "mfcore-10.0.22621.4601.dll_vs_mfcore-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "mfksproxy-10.0.22621.4660.dll_vs_mfksproxy-10.0.22621.4746.dll.diffdecompile"
+                        },
+                        {
+                            "File": "MPSSVC-10.0.22621.1409.dll_vs_MPSSVC-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "MrmCoreR-10.0.22621.3733.dll_vs_MrmCoreR-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "MrmDeploy-10.0.22621.4034.dll_vs_MrmDeploy-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "MrmIndexer-10.0.22621.1397.dll_vs_MrmIndexer-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "mscandui-10.0.22621.4746.dll_vs_mscandui-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "msctf-10.0.22621.4601.dll_vs_msctf-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "msctfui-10.0.22621.4746.dll_vs_msctfui-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "msdart-10.0.22621.4746.dll_vs_msdart-10.0.22621.4034.dll.diffdecompile"
+                        },
+                        {
+                            "File": "msdtckrm-10.0.22621.4746.dll_vs_msdtckrm-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "msdtcprx-10.0.22621.4746.dll_vs_msdtcprx-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "msdtctm-10.0.22621.4746.dll_vs_msdtctm-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "msdtcuiu-10.0.22621.4746.dll_vs_msdtcuiu-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "msftedit-10.0.22621.4541.dll_vs_msftedit-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "msi-5.0.22621.4601.dll_vs_msi-5.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "msieftp-10.0.22621.4746.dll_vs_msieftp-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "msscntrs-7.0.22621.4541.dll_vs_msscntrs-7.0.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "mssph-7.0.22621.4541.dll_vs_mssph-7.0.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "mssrch-7.0.22621.4541.dll_vs_mssrch-7.0.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "mstscax-10.0.22621.4746.dll_vs_mstscax-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "msutb-10.0.22621.4746.dll_vs_msutb-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "mswsock-10.0.22621.3209.dll_vs_mswsock-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "mtxclu-10.0.22621.4746.dll_vs_mtxclu-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "MusUpdateHandlers-10.0.22621.4541.dll_vs_MusUpdateHandlers-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ndis-10.0.22621.1409.sys_vs_ndis-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "negoexts-10.0.22621.1376.dll_vs_negoexts-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "netjoin-10.0.22621.4034.dll_vs_netjoin-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "netlogon-10.0.22621.4034.dll_vs_netlogon-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "NetMgmtIF-10.0.22621.4746.dll_vs_NetMgmtIF-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "NetworkMobileSettings-10.0.22621.4746.dll_vs_NetworkMobileSettings-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ngccredprov-10.0.22621.4541.dll_vs_ngccredprov-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "NgcCtnr-10.0.22621.4541.dll_vs_NgcCtnr-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "NgcCtnrGidsHandler-10.0.22621.4034.dll_vs_NgcCtnrGidsHandler-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "NgcCtnrSvc-10.0.22621.4541.dll_vs_NgcCtnrSvc-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "NgcIsoCtnr-10.0.22621.4541.dll_vs_NgcIsoCtnr-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ngcksp-10.0.22621.4746.dll_vs_ngcksp-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ngcsvc-10.0.22621.4541.dll_vs_ngcsvc-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ngcutils-10.0.22621.4034.dll_vs_ngcutils-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "nlhtml-2008.0.22621.4034.dll_vs_nlhtml-2008.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "noise-10.0.22621.4034.dll_vs_noise-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "nonarpinv-10.0.22621.4541.dll_vs_nonarpinv-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "NotificationController-10.0.22621.1418.dll_vs_NotificationController-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "NotificationIntelligencePlatform-10.0.22621.4746.dll_vs_NotificationIntelligencePlatform-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ntdll-10.0.22621.4746.dll_vs_ntdll-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ntfs-10.0.22621.1409.sys_vs_ntfs-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ntshrui-10.0.22621.4541.dll_vs_ntshrui-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ole32-10.0.22621.4034.dll_vs_ole32-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "p9rdr-10.0.22621.1409.sys_vs_p9rdr-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "p9rdrservice-10.0.22621.4746.dll_vs_p9rdrservice-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "PackageStateChangeHandler-10.0.22621.4746.dll_vs_PackageStateChangeHandler-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "pcasvc-10.0.22621.4541.dll_vs_pcasvc-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "pcaui-10.0.22621.4541.dll_vs_pcaui-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "pcwutl-10.0.22621.1409.dll_vs_pcwutl-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "pdc-10.0.22621.4455.sys_vs_pdc-10.0.22621.4890.sys.diffdecompile"
+                        },
+                        {
+                            "File": "pdhui-10.0.22621.4746.dll_vs_pdhui-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "PeerDistHttpTrans-10.0.22621.4601.dll_vs_PeerDistHttpTrans-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "PersonalizationCSP-10.0.22621.4746.dll_vs_PersonalizationCSP-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "pku2u-10.0.22621.1409.dll_vs_pku2u-10.0.22621.4746.dll.diffdecompile"
+                        },
+                        {
+                            "File": "pla-10.0.22621.4746.dll_vs_pla-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "PrintWorkflowService-10.0.22621.4601.dll_vs_PrintWorkflowService-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "profapi-10.0.22621.4746.dll_vs_profapi-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "profsvc-10.0.22621.4034.dll_vs_profsvc-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "propsys-7.0.22621.4391.dll_vs_propsys-7.0.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "PsmServiceExtHost-10.0.22621.4541.dll_vs_PsmServiceExtHost-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "PushToInstall-10.0.22621.1418.dll_vs_PushToInstall-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "rasmans-10.0.22621.1409.dll_vs_rasmans-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "rdpbase-10.0.22621.3652.dll_vs_rdpbase-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "rdpserverbase-10.0.22621.4742.dll_vs_rdpserverbase-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "RDXTaskFactory-10.0.22621.3880.dll_vs_RDXTaskFactory-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "refs-10.0.22621.1409.sys_vs_refs-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "refsv1-10.0.22621.1409.sys_vs_refsv1-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "rmcast-10.0.22621.1409.sys_vs_rmcast-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "RpcRtRemote-10.0.22621.1409.dll_vs_RpcRtRemote-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "rpcss-10.0.22621.4249.dll_vs_rpcss-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "rtffilt-2008.0.22621.4034.dll_vs_rtffilt-2008.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "schannel-10.0.22621.4746.dll_vs_schannel-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "SDFHost-10.0.22621.1364.dll_vs_SDFHost-10.0.22621.4746.dll.diffdecompile"
+                        },
+                        {
+                            "File": "SearchFolder-10.0.22621.4541.dll_vs_SearchFolder-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "sendmail-10.0.22621.4601.dll_vs_sendmail-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "SessEnv-10.0.22621.4746.dll_vs_SessEnv-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "SettingsEnvironment.Desktop-10.0.22621.4746.dll_vs_SettingsEnvironment.Desktop-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "setupcln-10.0.22621.1364.dll_vs_setupcln-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ShareHost-10.0.22621.4541.dll_vs_ShareHost-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "SHCore-10.0.22621.4541.dll_vs_SHCore-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "shdocvw-10.0.22621.4601.dll_vs_shdocvw-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "shutdownux-10.0.22621.4541.dll_vs_shutdownux-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "skci-10.0.22621.4601.dll_vs_skci-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "SmartcardCredentialProvider-10.0.22621.4541.dll_vs_SmartcardCredentialProvider-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "smartscreen-1.0.0.82.dll_vs_smartscreen-1.0.0.83.dll.diffdecompile"
+                        },
+                        {
+                            "File": "softkbd-10.0.22621.4746.dll_vs_softkbd-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "sqlsrv32-10.0.22621.1409.dll_vs_sqlsrv32-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "SRH-10.0.22621.4541.dll_vs_SRH-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ssdpsrv-10.0.22621.4601.dll_vs_ssdpsrv-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "StartTileData-10.0.22621.4541.dll_vs_StartTileData-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "stobject-10.0.22621.4601.dll_vs_stobject-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "storewuauth-1220.2407.15022.0.dll_vs_storewuauth-1309.2412.6022.0.dll.diffdecompile"
+                        },
+                        {
+                            "File": "stornvme-10.0.22621.1409.sys_vs_stornvme-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "storport-10.0.22621.1409.sys_vs_storport-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "StorSvc-10.0.22621.4455.dll_vs_StorSvc-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "SystemSettings.DataModel-10.0.22621.4746.dll_vs_SystemSettings.DataModel-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "tapi3-10.0.22621.4034.dll_vs_tapi3-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "tapi32-10.0.22621.4660.dll_vs_tapi32-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "tcpip-10.0.22621.4746.sys_vs_tcpip-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "tellib-10.0.22621.4541.dll_vs_tellib-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "termsrv-10.0.22621.4541.dll_vs_termsrv-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "TextInputFramework-10.0.22621.4601.dll_vs_TextInputFramework-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "TextInputMethodFormatter-10.0.22621.4746.dll_vs_TextInputMethodFormatter-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "themeui-10.0.22621.1413.dll_vs_themeui-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "tm-10.0.22621.1409.sys_vs_tm-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "TpmEngUM-10.0.22621.3640.dll_vs_TpmEngUM-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "TpmTasks-10.0.22621.4601.dll_vs_TpmTasks-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "tquery-7.0.22621.4391.dll_vs_tquery-7.0.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "tsf3gip-10.0.22621.4541.dll_vs_tsf3gip-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "twext-10.0.22621.4746.dll_vs_twext-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "twinapi.appcore-10.0.22621.4541.dll_vs_twinapi.appcore-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "twinui-10.0.22621.4541.dll_vs_twinui-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "twinui.appcore-10.0.22621.4455.dll_vs_twinui.appcore-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "twinui.pcshell-10.0.22621.4541.dll_vs_twinui.pcshell-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "UCPD-3.2.0.536171+9035dd35.sys_vs_UCPD-4.0.0.556715+05e7a458.sys.diffdecompile"
+                        },
+                        {
+                            "File": "uDWM-10.0.22621.4746.dll_vs_uDWM-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "UIAutomationCore-10.0.22621.4746.dll_vs_UIAutomationCore-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "uireng-10.0.22621.4541.dll_vs_uireng-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "UpdateAgent-10.0.22621.4541.dll_vs_UpdateAgent-10.0.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "updatepolicy-1220.2407.15022.0.dll_vs_updatepolicy-1309.2412.6022.0.dll.diffdecompile"
+                        },
+                        {
+                            "File": "upnphost-10.0.22621.3209.dll_vs_upnphost-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "urlmon-11.00.22621.4169.dll_vs_urlmon-11.00.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "USBAUDIO-10.0.22621.1409.sys_vs_USBAUDIO-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "usbmon-10.0.22621.4541.dll_vs_usbmon-10.0.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "UsbSettingsHandlers-10.0.22621.4746.dll_vs_UsbSettingsHandlers-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "UserDataService-10.0.22621.4541.dll_vs_UserDataService-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "usermgr-10.0.22621.4541.dll_vs_usermgr-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "usodocked-10.0.22621.4541.dll_vs_usodocked-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "uwfcfgmgmt-10.0.22621.4746.dll_vs_uwfcfgmgmt-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "UXInit-10.0.22621.4746.dll_vs_UXInit-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "uxtheme-10.0.22621.4746.dll_vs_uxtheme-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "vbsapi-10.0.22621.4034.dll_vs_vbsapi-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "vhdmp-10.0.22621.1409.sys_vs_vhdmp-10.0.22621.4890.sys.diffdecompile"
+                        },
+                        {
+                            "File": "vmsif-10.0.22621.4746.dll_vs_vmsif-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "vmsvcext-10.0.22621.4389.sys_vs_vmsvcext-10.0.22621.4890.sys.diffdecompile"
+                        },
+                        {
+                            "File": "vmswitch-10.0.22621.4601.sys_vs_vmswitch-10.0.22621.4890.sys.diffdecompile"
+                        },
+                        {
+                            "File": "vmusrv-10.0.22621.3858.dll_vs_vmusrv-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wbiosrvc-10.0.22621.4541.dll_vs_wbiosrvc-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wdigest-10.0.22621.4601.dll_vs_wdigest-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "webauthn-10.0.22621.4541.dll_vs_webauthn-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "webio-10.0.22621.1409.dll_vs_webio-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "WebRuntimeManager-10.0.22621.4541.dll_vs_WebRuntimeManager-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "Websocket-10.0.22621.1364.dll_vs_Websocket-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wer-10.0.22621.4541.dll_vs_wer-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "win32kbase-10.0.22621.4746.sys_vs_win32kbase-10.0.22621.4890.sys.diffdecompile"
+                        },
+                        {
+                            "File": "win32kfull-10.0.22621.4601.sys_vs_win32kfull-10.0.22621.4890.sys.diffdecompile"
+                        },
+                        {
+                            "File": "WinBioDataModel-10.0.22621.4746.dll_vs_WinBioDataModel-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wincredui-10.0.22621.4455.dll_vs_wincredui-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "windlp-10.0.22621.1409.dll_vs_windlp-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "WindowManagement-10.0.22621.4034.dll_vs_WindowManagement-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "WindowManagementAPI-10.0.22621.3733.dll_vs_WindowManagementAPI-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "winhttp-10.0.22621.4601.dll_vs_winhttp-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wininet-11.00.22621.4541.dll_vs_wininet-11.00.22621.4830.dll.diffdecompile"
+                        },
+                        {
+                            "File": "winipcfile-10.0.22621.4746.dll_vs_winipcfile-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "winipcsecproc-10.0.22621.4746.dll_vs_winipcsecproc-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "winmsipc-10.0.22621.4746.dll_vs_winmsipc-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "winnat-10.0.22621.4805.sys_vs_winnat-10.0.22621.1420.sys.diffdecompile"
+                        },
+                        {
+                            "File": "WinREAgent-10.0.22621.4541.dll_vs_WinREAgent-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "winsta-10.0.22621.4746.dll_vs_winsta-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wintrust-10.0.22621.4746.dll_vs_wintrust-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "WinTypes-10.0.22621.4305.dll_vs_WinTypes-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wldp-10.0.22621.4541.dll_vs_wldp-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wlidsvc-10.0.22621.4541.dll_vs_wlidsvc-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wosc-10.0.22621.4305.dll_vs_wosc-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wpdbusenum-10.0.22621.3209.dll_vs_wpdbusenum-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wpdshext-10.0.22621.4541.dll_vs_wpdshext-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wpnapps-10.0.22621.4541.dll_vs_wpnapps-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wpncore-10.0.22621.4541.dll_vs_wpncore-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wpnprv-10.0.22621.4541.dll_vs_wpnprv-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wpnservice-10.0.22621.4746.dll_vs_wpnservice-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wpnsruprov-10.0.22621.4746.dll_vs_wpnsruprov-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "WpnUserService-10.0.22621.4751.dll_vs_WpnUserService-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ws2_32-10.0.22621.1690.dll_vs_ws2_32-10.0.22621.1420.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wslapi-10.0.22621.4317.dll_vs_wslapi-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wtsapi32-10.0.22621.1364.dll_vs_wtsapi32-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wuapi-1220.2407.15022.0.dll_vs_wuapi-1309.2412.6022.0.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wuaueng-1220.2407.15022.0.dll_vs_wuaueng-1309.2412.6022.0.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wups-1220.2407.15022.0.dll_vs_wups-1309.2412.6022.0.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wusys-10.0.22621.4305.dll_vs_wusys-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "xmlfilter-2008.0.22621.4034.dll_vs_xmlfilter-2008.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "xolehlp-10.0.22621.4746.dll_vs_xolehlp-10.0.22621.4945.dll.diffdecompile"
+                        },
+                        {
+                            "File": "zipfldr-10.0.22621.1413.dll_vs_zipfldr-10.0.22621.4890.dll.diffdecompile"
                         }
                     ]
                 }
