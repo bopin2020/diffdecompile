@@ -1,7 +1,17 @@
 {
-    "Count": 350,
-    "Date": "2025-02-15 13:20:17.328103",
+    "Count": 387,
+    "Date": "2025-04-12 23:39:21.086364",
     "Items": [
+        {
+            "Count": 0,
+            "Items": [],
+            "OS": "vista_sp2"
+        },
+        {
+            "Count": 0,
+            "Items": [],
+            "OS": "vista_sp2_x86"
+        },
         {
             "Count": 1,
             "Items": [
@@ -984,7 +994,7 @@
             "OS": "win11-23h2"
         },
         {
-            "Count": 3,
+            "Count": 5,
             "Items": [
                 {
                     "Count": 18,
@@ -1083,9 +1093,182 @@
                             "File": "win32kfull-10.0.26100.3037.sys_vs_win32kfull-10.0.26100.3194.sys.diffdecompile"
                         }
                     ]
+                },
+                {
+                    "Count": 11,
+                    "Date": "2025-03",
+                    "Items": [
+                        {
+                            "File": "clfs-10.0.26100.2605.sys_vs_clfs-10.0.26100.3470.sys.diffdecompile"
+                        },
+                        {
+                            "File": "mmc-10.0.26100.2033.exe_vs_mmc-10.0.26100.3476.exe.diffdecompile"
+                        },
+                        {
+                            "File": "mmcbase-10.0.26100.2033.dll_vs_mmcbase-10.0.26100.3476.dll.diffdecompile"
+                        },
+                        {
+                            "File": "mmcndmgr-10.0.26100.1882.dll_vs_mmcndmgr-10.0.26100.3323.dll.diffdecompile"
+                        },
+                        {
+                            "File": "mmcshext-10.0.26100.2033.dll_vs_mmcshext-10.0.26100.3476.dll.diffdecompile"
+                        },
+                        {
+                            "File": "tcpip-10.0.26100.2605.sys_vs_tcpip-10.0.26100.3470.sys.diffdecompile"
+                        },
+                        {
+                            "File": "win32k-10.0.26100.2605.sys_vs_win32k-10.0.26100.3470.sys.diffdecompile"
+                        },
+                        {
+                            "File": "win32kbase-10.0.26100.2605.sys_vs_win32kbase-10.0.26100.3470.sys.diffdecompile"
+                        },
+                        {
+                            "File": "win32kbase_rs-10.0.26100.2161.sys_vs_win32kbase_rs-10.0.26100.3037.sys.diffdecompile"
+                        },
+                        {
+                            "File": "win32kfull-10.0.26100.2605.sys_vs_win32kfull-10.0.26100.3470.sys.diffdecompile"
+                        },
+                        {
+                            "File": "win32u-10.0.26100.2605.dll_vs_win32u-10.0.26100.3470.dll.diffdecompile"
+                        }
+                    ]
+                },
+                {
+                    "Count": 26,
+                    "Date": "2025-04",
+                    "Items": [
+                        {
+                            "File": "ci-10.0.26100.3624.dll_vs_ci-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "clfs-10.0.26100.3470-10.0.26100.3470.sys_vs_clfs-10.0.26100.3470-10.0.26100.3775.sys.diffdecompile"
+                        },
+                        {
+                            "File": "cng-10.0.26100.3624.sys_vs_cng-10.0.26100.3775.sys.diffdecompile"
+                        },
+                        {
+                            "File": "crypt32-10.0.26100.3624.dll_vs_crypt32-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dwmapi-10.0.26100.3624.dll_vs_dwmapi-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dwmcore-10.0.26100.3624.dll_vs_dwmcore-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dwmredir-10.0.26100.3624.dll_vs_dwmredir-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ksecdd-10.0.26100.2894.sys_vs_ksecdd-10.0.26100.3775.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ksecpkg-10.0.26100.3624.sys_vs_ksecpkg-10.0.26100.3775.sys.diffdecompile"
+                        },
+                        {
+                            "File": "lsasrv-10.0.26100.3624.dll_vs_lsasrv-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ntdll-10.0.26100.3624.dll_vs_ntdll-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ntfs-10.0.26100.3624.sys_vs_ntfs-10.0.26100.3775.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ntoskrnl-10.0.26100.3624.exe_vs_ntoskrnl-10.0.26100.3775.exe.diffdecompile"
+                        },
+                        {
+                            "File": "refs-10.0.26100.3624.sys_vs_refs-10.0.26100.3775.sys.diffdecompile"
+                        },
+                        {
+                            "File": "scesrv-10.0.26100.3624.dll_vs_scesrv-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "securekernel-10.0.26100.3624.exe_vs_securekernel-10.0.26100.3775.exe.diffdecompile"
+                        },
+                        {
+                            "File": "srv2-10.0.26100.3624.sys_vs_srv2-10.0.26100.3775.sys.diffdecompile"
+                        },
+                        {
+                            "File": "srvnet-10.0.26100.3624.sys_vs_srvnet-10.0.26100.3775.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ssdpsrv-10.0.26100.3624.dll_vs_ssdpsrv-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "tapi32-10.0.26100.3624.dll_vs_tapi32-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "tapisrv-10.0.26100.3624.dll_vs_tapisrv-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "tcpip-10.0.26100.3624.sys_vs_tcpip-10.0.26100.3775.sys.diffdecompile"
+                        },
+                        {
+                            "File": "tcpipreg-10.0.26100.3624.sys_vs_tcpipreg-10.0.26100.3775.sys.diffdecompile"
+                        },
+                        {
+                            "File": "Wldap32-10.0.26100.3624.dll_vs_Wldap32-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wow64con-10.0.26100.3624.dll_vs_wow64con-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wow64win-10.0.26100.3624.dll_vs_wow64win-10.0.26100.3775.dll.diffdecompile"
+                        }
+                    ]
                 }
             ],
             "OS": "win11-24h2"
+        },
+        {
+            "Count": 0,
+            "Items": [],
+            "OS": "win11-24h2-preview-dev-channel"
+        },
+        {
+            "Count": 0,
+            "Items": [],
+            "OS": "win7"
+        },
+        {
+            "Count": 0,
+            "Items": [],
+            "OS": "win7_x86"
+        },
+        {
+            "Count": 0,
+            "Items": [],
+            "OS": "win8.1"
+        },
+        {
+            "Count": 0,
+            "Items": [],
+            "OS": "winserver_2008_r2"
+        },
+        {
+            "Count": 0,
+            "Items": [],
+            "OS": "winserver_2012_r2"
+        },
+        {
+            "Count": 0,
+            "Items": [],
+            "OS": "winserver_2016"
+        },
+        {
+            "Count": 0,
+            "Items": [],
+            "OS": "winserver_2019"
+        },
+        {
+            "Count": 0,
+            "Items": [],
+            "OS": "winserver_2022"
+        },
+        {
+            "Count": 0,
+            "Items": [],
+            "OS": "winserver_2025"
         }
     ]
 }
