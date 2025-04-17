@@ -1,6 +1,6 @@
 {
-    "Count": 449,
-    "Date": "2025-04-14 09:24:33.428329",
+    "Count": 457,
+    "Date": "2025-04-17 08:58:09.373207",
     "Items": [
         {
             "Count": 0,
@@ -1275,11 +1275,26 @@
                     ]
                 },
                 {
-                    "Count": 16,
+                    "Count": 21,
                     "Date": "2025-03",
                     "Items": [
                         {
                             "File": "clfs-10.0.26100.2605.sys_vs_clfs-10.0.26100.3470.sys.diffdecompile"
+                        },
+                        {
+                            "File": "dxgi-10.0.26100.2454.dll_vs_dxgi-10.0.26100.3323.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dxgiadaptercache-10.0.26100.2454.exe_vs_dxgiadaptercache-10.0.26100.3037.exe.diffdecompile"
+                        },
+                        {
+                            "File": "dxgkrnl-10.0.26100.2454.sys_vs_dxgkrnl-10.0.26100.3470.sys.diffdecompile"
+                        },
+                        {
+                            "File": "dxgmms1-10.0.26100.2454.sys_vs_dxgmms1-10.0.26100.3470.sys.diffdecompile"
+                        },
+                        {
+                            "File": "dxgmms2-10.0.26100.2454.sys_vs_dxgmms2-10.0.26100.3470.sys.diffdecompile"
                         },
                         {
                             "File": "mmc-10.0.26100.2033.exe_vs_mmc-10.0.26100.3476.exe.diffdecompile"
@@ -1329,7 +1344,7 @@
                     ]
                 },
                 {
-                    "Count": 27,
+                    "Count": 30,
                     "Date": "2025-04",
                     "Items": [
                         {
@@ -1352,6 +1367,15 @@
                         },
                         {
                             "File": "dwmredir-10.0.26100.3624.dll_vs_dwmredir-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "dxgkrnl-10.0.26100.3624.sys_vs_dxgkrnl-10.0.26100.3775.sys.diffdecompile"
+                        },
+                        {
+                            "File": "dxgmms1-10.0.26100.3624.sys_vs_dxgmms1-10.0.26100.3775.sys.diffdecompile"
+                        },
+                        {
+                            "File": "dxgmms2-10.0.26100.3624.sys_vs_dxgmms2-10.0.26100.3775.sys.diffdecompile"
                         },
                         {
                             "File": "ksecdd-10.0.26100.2894.sys_vs_ksecdd-10.0.26100.3775.sys.diffdecompile"
