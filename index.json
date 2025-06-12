@@ -1,6 +1,6 @@
 {
-    "Count": 457,
-    "Date": "2025-04-17 08:58:09.373207",
+    "Count": 501,
+    "Date": "2025-06-12 14:27:02.025056",
     "Items": [
         {
             "Count": 0,
@@ -1174,7 +1174,7 @@
             "OS": "win11-23h2"
         },
         {
-            "Count": 5,
+            "Count": 7,
             "Items": [
                 {
                     "Count": 18,
@@ -1275,11 +1275,14 @@
                     ]
                 },
                 {
-                    "Count": 21,
+                    "Count": 27,
                     "Date": "2025-03",
                     "Items": [
                         {
                             "File": "clfs-10.0.26100.2605.sys_vs_clfs-10.0.26100.3470.sys.diffdecompile"
+                        },
+                        {
+                            "File": "combase-10.0.26100.2454.dll_vs_combase-10.0.26100.3323.dll.diffdecompile"
                         },
                         {
                             "File": "dxgi-10.0.26100.2454.dll_vs_dxgi-10.0.26100.3323.dll.diffdecompile"
@@ -1324,7 +1327,19 @@
                             "File": "rdpsharercom-10.0.26100.2454.dll_vs_rdpsharercom-10.0.26100.3323.dll.diffdecompile"
                         },
                         {
+                            "File": "SHCore-10.0.26100.2454.dll_vs_SHCore-10.0.26100.3470.dll.diffdecompile"
+                        },
+                        {
+                            "File": "shell32-10.0.26100.2454.dll_vs_shell32-10.0.26100.3323.dll.diffdecompile"
+                        },
+                        {
+                            "File": "shlwapi-10.0.26100.2454.dll_vs_shlwapi-10.0.26100.3037.dll.diffdecompile"
+                        },
+                        {
                             "File": "tcpip-10.0.26100.2605.sys_vs_tcpip-10.0.26100.3470.sys.diffdecompile"
+                        },
+                        {
+                            "File": "wevtsvc-10.0.26100.2454.dll_vs_wevtsvc-10.0.26100.3323.dll.diffdecompile"
                         },
                         {
                             "File": "win32k-10.0.26100.2605.sys_vs_win32k-10.0.26100.3470.sys.diffdecompile"
@@ -1340,11 +1355,14 @@
                         },
                         {
                             "File": "win32u-10.0.26100.2605.dll_vs_win32u-10.0.26100.3470.dll.diffdecompile"
+                        },
+                        {
+                            "File": "windows.storage-10.0.26100.2605.dll_vs_windows.storage-10.0.26100.3470.dll.diffdecompile"
                         }
                     ]
                 },
                 {
-                    "Count": 30,
+                    "Count": 31,
                     "Date": "2025-04",
                     "Items": [
                         {
@@ -1385,6 +1403,9 @@
                         },
                         {
                             "File": "lsasrv-10.0.26100.3624.dll_vs_lsasrv-10.0.26100.3775.dll.diffdecompile"
+                        },
+                        {
+                            "File": "MFMediaEngine-10.0.26100.3624.dll_vs_MFMediaEngine-10.0.26100.3775.dll.diffdecompile"
                         },
                         {
                             "File": "ntdll-10.0.26100.3624.dll_vs_ntdll-10.0.26100.3775.dll.diffdecompile"
@@ -1436,6 +1457,129 @@
                         },
                         {
                             "File": "wow64win-10.0.26100.3624.dll_vs_wow64win-10.0.26100.3775.dll.diffdecompile"
+                        }
+                    ]
+                },
+                {
+                    "Count": 13,
+                    "Date": "2025-05",
+                    "Items": [
+                        {
+                            "File": "afd-10.0.26100.3912.sys_vs_afd-10.0.26100.4061.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ci-10.0.26100.3912.dll_vs_ci-10.0.26100.4061.dll.diffdecompile"
+                        },
+                        {
+                            "File": "clfs-10.0.26100.3775.sys_vs_clfs-10.0.26100.4061.sys.diffdecompile"
+                        },
+                        {
+                            "File": "dwmcore-10.0.26100.3912.dll_vs_dwmcore-10.0.26100.4061.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ks-10.0.26100.3912.sys_vs_ks-10.0.26100.4061.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ntdll-10.0.26100.3912.dll_vs_ntdll-10.0.26100.4061.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ntoskrnl-10.0.26100.3912.exe_vs_ntoskrnl-10.0.26100.4061.exe.diffdecompile"
+                        },
+                        {
+                            "File": "rdpbase-10.0.26100.3912.dll_vs_rdpbase-10.0.26100.4061.dll.diffdecompile"
+                        },
+                        {
+                            "File": "rdpserverbase-10.0.26100.3912.dll_vs_rdpserverbase-10.0.26100.4061.dll.diffdecompile"
+                        },
+                        {
+                            "File": "skci-10.0.26100.3912.dll_vs_skci-10.0.26100.4061.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wdstftp-10.0.26100.3912.dll_vs_wdstftp-10.0.26100.4061.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wevtapi-10.0.26100.1591.dll_vs_wevtapi-10.0.26100.4061.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wevtsvc-10.0.26100.3624.dll_vs_wevtsvc-10.0.26100.4061.dll.diffdecompile"
+                        }
+                    ]
+                },
+                {
+                    "Count": 24,
+                    "Date": "2025-06",
+                    "Items": [
+                        {
+                            "File": "ci-10.0.26100.4202.dll_vs_ci-10.0.26100.4343.dll.diffdecompile"
+                        },
+                        {
+                            "File": "clfs-10.0.26100.4061.sys_vs_clfs-10.0.26100.4343.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ieframe-11.00.26100.4202.dll_vs_ieframe-11.00.26100.4343.dll.diffdecompile"
+                        },
+                        {
+                            "File": "Kerb3961Kernel-10.0.26100.4202.sys_vs_Kerb3961Kernel-10.0.26100.4343.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ksecdd-10.0.26100.3775.sys_vs_ksecdd-10.0.26100.4343.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ksecpkg-10.0.26100.4202.sys_vs_ksecpkg-10.0.26100.4343.sys.diffdecompile"
+                        },
+                        {
+                            "File": "lsasrv-10.0.26100.4202.dll_vs_lsasrv-10.0.26100.4343.dll.diffdecompile"
+                        },
+                        {
+                            "File": "mrxsmb-10.0.26100.4202.sys_vs_mrxsmb-10.0.26100.4343.sys.diffdecompile"
+                        },
+                        {
+                            "File": "netio-10.0.26100.4202.sys_vs_netio-10.0.26100.4349.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ntoskrnl-10.0.26100.4202.exe_vs_ntoskrnl-10.0.26100.4343.exe.diffdecompile"
+                        },
+                        {
+                            "File": "refs-10.0.26100.4202.sys_vs_refs-10.0.26100.4343.sys.diffdecompile"
+                        },
+                        {
+                            "File": "schedsvc-10.0.26100.3624.dll_vs_schedsvc-10.0.26100.4343.dll.diffdecompile"
+                        },
+                        {
+                            "File": "schtasks-10.0.26100.1882.exe_vs_schtasks-10.0.26100.4343.exe.diffdecompile"
+                        },
+                        {
+                            "File": "securekernel-10.0.26100.4202.exe_vs_securekernel-10.0.26100.4343.exe.diffdecompile"
+                        },
+                        {
+                            "File": "storport-10.0.26100.4202.sys_vs_storport-10.0.26100.4343.sys.diffdecompile"
+                        },
+                        {
+                            "File": "tcpip-10.0.26100.4202.sys_vs_tcpip-10.0.26100.4349.sys.diffdecompile"
+                        },
+                        {
+                            "File": "tcpipreg-10.0.26100.4202.sys_vs_tcpipreg-10.0.26100.4349.sys.diffdecompile"
+                        },
+                        {
+                            "File": "wfplwfs-10.0.26100.4202.sys_vs_wfplwfs-10.0.26100.4349.sys.diffdecompile"
+                        },
+                        {
+                            "File": "win32k-10.0.26100.4202.sys_vs_win32k-10.0.26100.4343.sys.diffdecompile"
+                        },
+                        {
+                            "File": "win32kbase-10.0.26100.4202.sys_vs_win32kbase-10.0.26100.4343.sys.diffdecompile"
+                        },
+                        {
+                            "File": "win32kfull-10.0.26100.4202.sys_vs_win32kfull-10.0.26100.4343.sys.diffdecompile"
+                        },
+                        {
+                            "File": "win32u-10.0.26100.4202.dll_vs_win32u-10.0.26100.4343.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wintrust-10.0.26100.4202.dll_vs_wintrust-10.0.26100.4349.dll.diffdecompile"
+                        },
+                        {
+                            "File": "Wldap32-10.0.26100.4202.dll_vs_Wldap32-10.0.26100.4343.dll.diffdecompile"
                         }
                     ]
                 }
