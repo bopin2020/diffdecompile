@@ -1,6 +1,6 @@
 {
-    "Count": 533,
-    "Date": "2025-07-17 08:21:21.407532",
+    "Count": 543,
+    "Date": "2025-08-07 14:21:08.021235",
     "Items": [
         {
             "Count": 0,
@@ -16,15 +16,9 @@
             "Count": 1,
             "Items": [
                 {
-                    "Count": 58,
+                    "Count": 56,
                     "Date": "2019-01",
                     "Items": [
-                        {
-                            "File": "30ee56c4c5dc462eab6dfb6a5ba0b192"
-                        },
-                        {
-                            "File": "87e0d610a8354a4b83b42c09a69370c8"
-                        },
                         {
                             "File": "bthhfenum-10.0.17763.194.sys_vs_bthhfenum-10.0.17763.292.sys.diffdecompile"
                         },
@@ -202,15 +196,9 @@
             "Count": 1,
             "Items": [
                 {
-                    "Count": 325,
+                    "Count": 323,
                     "Date": "2025-02",
                     "Items": [
-                        {
-                            "File": "92ac4837eec047088e8915994c6f458b"
-                        },
-                        {
-                            "File": "a9a616d2ca0a436aaa013729605e520a"
-                        },
                         {
                             "File": "AboutSettingsHandlers-10.0.22621.4541.dll_vs_AboutSettingsHandlers-10.0.22621.4890.dll.diffdecompile"
                         },
@@ -1186,7 +1174,7 @@
             "OS": "win11-23h2"
         },
         {
-            "Count": 8,
+            "Count": 9,
             "Items": [
                 {
                     "Count": 18,
@@ -1608,11 +1596,20 @@
                     ]
                 },
                 {
-                    "Count": 23,
+                    "Count": 37,
                     "Date": "2025-07",
                     "Items": [
                         {
+                            "File": "0a8f60bdbd4e4578afb36ccab57c9227"
+                        },
+                        {
+                            "File": "52ef6aeaa14943d49c1f496bb7f3c987"
+                        },
+                        {
                             "File": "advapi32-10.0.26100.4484.dll_vs_advapi32-10.0.26100.4652.dll.diffdecompile"
+                        },
+                        {
+                            "File": "afd-10.0.26100.4652.sys_vs_afd-10.0.26100.4768.sys.diffdecompile"
                         },
                         {
                             "File": "bcrypt-10.0.26100.4061.dll_vs_bcrypt-10.0.26100.4652.dll.diffdecompile"
@@ -1622,6 +1619,12 @@
                         },
                         {
                             "File": "ci-10.0.26100.4484.dll_vs_ci-10.0.26100.4652.dll.diffdecompile"
+                        },
+                        {
+                            "File": "clfs-10.0.26100.4484.sys_vs_clfs-10.0.26100.4768.sys.diffdecompile"
+                        },
+                        {
+                            "File": "cmd-10.0.26100.4484.exe_vs_cmd-10.0.26100.4768.exe.diffdecompile"
                         },
                         {
                             "File": "cng-10.0.26100.4202.sys_vs_cng-10.0.26100.4652.sys.diffdecompile"
@@ -1636,13 +1639,28 @@
                             "File": "cryptsp-10.0.26100.4484.dll_vs_cryptsp-10.0.26100.4652.dll.diffdecompile"
                         },
                         {
+                            "File": "http-10.0.26100.4484.sys_vs_http-10.0.26100.4768.sys.diffdecompile"
+                        },
+                        {
                             "File": "kerberos-10.0.26100.4484.dll_vs_kerberos-10.0.26100.4652.dll.diffdecompile"
                         },
                         {
                             "File": "KernelBase-10.0.26100.4484.dll_vs_KernelBase-10.0.26100.4652.dll.diffdecompile"
                         },
                         {
+                            "File": "ksecdd-10.0.26100.4484.sys_vs_ksecdd-10.0.26100.4768.sys.diffdecompile"
+                        },
+                        {
+                            "File": "LogonUI-10.0.26100.4484.exe_vs_LogonUI-10.0.26100.4768.exe.diffdecompile"
+                        },
+                        {
                             "File": "LsaIso-10.0.26100.4061.exe_vs_LsaIso-10.0.26100.4652.exe.diffdecompile"
+                        },
+                        {
+                            "File": "mrxsmb-10.0.26100.4484.sys_vs_mrxsmb-10.0.26100.4768.sys.diffdecompile"
+                        },
+                        {
+                            "File": "mrxsmb20-10.0.26100.4484.sys_vs_mrxsmb20-10.0.26100.4768.sys.diffdecompile"
                         },
                         {
                             "File": "mshtml-11.00.26100.4484.dll_vs_mshtml-11.00.26100.4652.dll.diffdecompile"
@@ -1678,9 +1696,26 @@
                             "File": "smartscreenps-10.0.26100.4061.dll_vs_smartscreenps-10.0.26100.4652.dll.diffdecompile"
                         },
                         {
+                            "File": "srv2-10.0.26100.4484.sys_vs_srv2-10.0.26100.4768.sys.diffdecompile"
+                        },
+                        {
+                            "File": "srvnet-10.0.26100.4484.sys_vs_srvnet-10.0.26100.4768.sys.diffdecompile"
+                        },
+                        {
                             "File": "wintrust-10.0.26100.4484.dll_vs_wintrust-10.0.26100.4652.dll.diffdecompile"
+                        },
+                        {
+                            "File": "Wldap32-10.0.26100.4484.dll_vs_Wldap32-10.0.26100.4768.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wow64-10.0.26100.3912.dll_vs_wow64-10.0.26100.4768.dll.diffdecompile"
                         }
                     ]
+                },
+                {
+                    "Count": 0,
+                    "Date": "2025-08",
+                    "Items": []
                 }
             ],
             "OS": "win11-24h2"
