@@ -1,6 +1,6 @@
 {
-    "Count": 543,
-    "Date": "2025-08-07 14:21:08.021235",
+    "Count": 545,
+    "Date": "2025-08-11 17:07:41.371244",
     "Items": [
         {
             "Count": 0,
@@ -191,6 +191,21 @@
                 }
             ],
             "OS": "win10-1809"
+        },
+        {
+            "Count": 1,
+            "Items": [
+                {
+                    "Count": 1,
+                    "Date": "2024-05",
+                    "Items": [
+                        {
+                            "File": "crypt32-10.0.22621.3575.dll_vs_crypt32-10.0.22621.3640.dll.diffdecompile"
+                        }
+                    ]
+                }
+            ],
+            "OS": "win11-22h2"
         },
         {
             "Count": 1,
@@ -1596,15 +1611,9 @@
                     ]
                 },
                 {
-                    "Count": 37,
+                    "Count": 38,
                     "Date": "2025-07",
                     "Items": [
-                        {
-                            "File": "0a8f60bdbd4e4578afb36ccab57c9227"
-                        },
-                        {
-                            "File": "52ef6aeaa14943d49c1f496bb7f3c987"
-                        },
                         {
                             "File": "advapi32-10.0.26100.4484.dll_vs_advapi32-10.0.26100.4652.dll.diffdecompile"
                         },
@@ -1655,6 +1664,9 @@
                         },
                         {
                             "File": "LsaIso-10.0.26100.4061.exe_vs_LsaIso-10.0.26100.4652.exe.diffdecompile"
+                        },
+                        {
+                            "File": "lsasrv-10.0.26100.4484.dll_vs_lsasrv-10.0.26100.4768.dll.diffdecompile"
                         },
                         {
                             "File": "mrxsmb-10.0.26100.4484.sys_vs_mrxsmb-10.0.26100.4768.sys.diffdecompile"
@@ -1709,6 +1721,12 @@
                         },
                         {
                             "File": "wow64-10.0.26100.3912.dll_vs_wow64-10.0.26100.4768.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wwansvc-10.0.26100.4484.dll_vs_wwansvc-10.0.26100.4768.dll.diffdecompile"
+                        },
+                        {
+                            "File": "zipfldr-10.0.26100.4484.dll_vs_zipfldr-10.0.26100.4768.dll.diffdecompile"
                         }
                     ]
                 },
