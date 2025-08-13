@@ -1,6 +1,6 @@
 {
-    "Count": 545,
-    "Date": "2025-08-11 17:07:41.371244",
+    "Count": 568,
+    "Date": "2025-08-13 15:07:17.207168",
     "Items": [
         {
             "Count": 0,
@@ -211,7 +211,7 @@
             "Count": 1,
             "Items": [
                 {
-                    "Count": 323,
+                    "Count": 324,
                     "Date": "2025-02",
                     "Items": [
                         {
@@ -369,6 +369,9 @@
                         },
                         {
                             "File": "d3d10warp-10.0.22621.4305.dll_vs_d3d10warp-10.0.22621.4890.dll.diffdecompile"
+                        },
+                        {
+                            "File": "d49ec005b4224ec0b71660f3f8c5ab80"
                         },
                         {
                             "File": "DAFESCL-10.0.22621.4746.dll_vs_DAFESCL-10.0.22621.1420.dll.diffdecompile"
@@ -1192,9 +1195,18 @@
             "Count": 9,
             "Items": [
                 {
-                    "Count": 18,
+                    "Count": 21,
                     "Date": "2024-12",
                     "Items": [
+                        {
+                            "File": "0565fc2f7a21455e89c1a8c777739735"
+                        },
+                        {
+                            "File": "651951788d8f440c975e930cf016c89b"
+                        },
+                        {
+                            "File": "74fc1aed96fc4c9f847e38bc13f96261"
+                        },
                         {
                             "File": "appid-10.0.26100.1882.sys_vs_appid-10.0.26100.2454.sys.diffdecompile"
                         },
@@ -1611,7 +1623,7 @@
                     ]
                 },
                 {
-                    "Count": 38,
+                    "Count": 39,
                     "Date": "2025-07",
                     "Items": [
                         {
@@ -1625,6 +1637,9 @@
                         },
                         {
                             "File": "bcryptprimitives-10.0.26100.4202.dll_vs_bcryptprimitives-10.0.26100.4652.dll.diffdecompile"
+                        },
+                        {
+                            "File": "cd47c4f6347340958df00f1f21d22f17"
                         },
                         {
                             "File": "ci-10.0.26100.4484.dll_vs_ci-10.0.26100.4652.dll.diffdecompile"
@@ -1731,9 +1746,64 @@
                     ]
                 },
                 {
-                    "Count": 0,
+                    "Count": 18,
                     "Date": "2025-08",
-                    "Items": []
+                    "Items": [
+                        {
+                            "File": "ci-10.0.26100.4768.dll_vs_ci-10.0.26100.4946.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ksecpkg-10.0.26100.4768.sys_vs_ksecpkg-10.0.26100.4946.sys.diffdecompile"
+                        },
+                        {
+                            "File": "lsaadt-10.0.26100.4768.dll_vs_lsaadt-10.0.26100.4946.dll.diffdecompile"
+                        },
+                        {
+                            "File": "LsaIso-10.0.26100.4768.exe_vs_LsaIso-10.0.26100.4946.exe.diffdecompile"
+                        },
+                        {
+                            "File": "lsasrv-10.0.26100.4768.dll_vs_lsasrv-10.0.26100.4946.dll.diffdecompile"
+                        },
+                        {
+                            "File": "mrxsmb-10.0.26100.4768.sys_vs_mrxsmb-10.0.26100.4946.sys.diffdecompile"
+                        },
+                        {
+                            "File": "msv1_0-10.0.26100.4768.dll_vs_msv1_0-10.0.26100.4946.dll.diffdecompile"
+                        },
+                        {
+                            "File": "netlogon-10.0.26100.4768.dll_vs_netlogon-10.0.26100.4946.dll.diffdecompile"
+                        },
+                        {
+                            "File": "ntfs-10.0.26100.4768.sys_vs_ntfs-10.0.26100.4946.sys.diffdecompile"
+                        },
+                        {
+                            "File": "ntoskrnl-10.0.26100.4768.exe_vs_ntoskrnl-10.0.26100.4946.exe.diffdecompile"
+                        },
+                        {
+                            "File": "offlinelsa-10.0.26100.4768.dll_vs_offlinelsa-10.0.26100.4946.dll.diffdecompile"
+                        },
+                        {
+                            "File": "securekernel-10.0.26100.4768.exe_vs_securekernel-10.0.26100.4946.exe.diffdecompile"
+                        },
+                        {
+                            "File": "wevtapi-10.0.26100.4061.dll_vs_wevtapi-10.0.26100.4946.dll.diffdecompile"
+                        },
+                        {
+                            "File": "wevtsvc-10.0.26100.4484.dll_vs_wevtsvc-10.0.26100.4946.dll.diffdecompile"
+                        },
+                        {
+                            "File": "win32k-10.0.26100.4768.sys_vs_win32k-10.0.26100.4946.sys.diffdecompile"
+                        },
+                        {
+                            "File": "win32kbase-10.0.26100.4768.sys_vs_win32kbase-10.0.26100.4946.sys.diffdecompile"
+                        },
+                        {
+                            "File": "win32kfull-10.0.26100.4768.sys_vs_win32kfull-10.0.26100.4946.sys.diffdecompile"
+                        },
+                        {
+                            "File": "win32u-10.0.26100.4768.dll_vs_win32u-10.0.26100.4946.dll.diffdecompile"
+                        }
+                    ]
                 }
             ],
             "OS": "win11-24h2"
